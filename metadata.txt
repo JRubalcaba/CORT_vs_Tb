@@ -1,0 +1,15 @@
+Binomial - Species names
+BC_Mean  - Basal glucocorticoid levels (mean, ng/mL) (Vitousek et al. 2018 Sci Data)
+BC_CV	   - Basal glucocorticoid levels (coefficient of variation) (Vitousek et al. 2018 Sci Data)
+Tb	   - Field body temperature (ºC) (Meiri 2018 Glob Ecol Biogeogr)
+log10Mass       - log10 body mass (g) (Meiri 2018 Glob Ecol Biogeogr) 
+active	    - Estimated activity window (proportion 0-1) 
+meanTe_sun	    - Mean operative temperature in the sun (ºC)
+meanTe_shade    - Mean operative temperature in the shade (ºC)
+Te5	          - Minimum operative temperaure (ºC) - 5% percentile
+Te95	          - Maximum operative temperature (ºC) - 95% precentile
+Breeding_Cycle  - Breeding vs nonbreeding at the time of hormone sampling (Vitousek et al. 2018 Sci Data)
+foraging.mode   - Foraging mode (active vs sit-and-wait) (Meiri 2018 Glob Ecol Biogeogr)
+Sex	          - Sex of the individual for hormone sampling (Vitousek et al. 2018 Sci Data)
+Lab_ID          - Laboratory that performed hormone measurement (Vitousek et al. 2018 Sci Data)
+Latency         - Latency of hormone sampling (min) (Vitousek et al. 2018 Sci Data)
